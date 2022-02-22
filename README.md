@@ -81,7 +81,7 @@ c)(34+28.5i)/(4∟-20.8°)-51.2∟-215°
 
 
 ## 5 CONCLUSIONES
-* Finalmente se llega a la conclusión mediante el informe que los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca.
+* Finalmente se llega a la conclusión mediante el informe que los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de CA.
 * Con los números complejos se realiza las operaciones básicas pero a su vez nos permite trabajar en cantidades de magnitud como en ángulos.
 * Como dato importante  los fasores pueden ser utilizados para describir el movimiento de un oscilador.
 
