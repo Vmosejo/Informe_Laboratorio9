@@ -22,6 +22,7 @@
 
 ## 4.RESPUESTA A INTERROGANTES 
 Transforme a su forma polar:
+
 a) 2+3i
 
 ![1a](https://user-images.githubusercontent.com/93681159/155048364-3bb1ee4d-0961-43c3-b55f-da8e824a9fe4.PNG)
@@ -39,6 +40,7 @@ d) -6-3.2i
 ![1d](https://user-images.githubusercontent.com/93681159/155048403-9fa44f7e-b4c5-4054-b9d1-d9833816a552.PNG)
 
 Transforme a su forma rectangular:
+
 a) 36∟-10°
 
 ![2a](https://user-images.githubusercontent.com/93681159/155048409-06f9067b-aaff-4ae8-96a8-777746ec6728.PNG)
@@ -56,15 +58,16 @@ d) 45∟-117.9°
 ![2d](https://user-images.githubusercontent.com/93681159/155048431-fc78e928-6e67-443c-b8d2-6e9b71ad23f8.PNG)
 
 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
-a)
+
+a)(10+3i)/(2i)-(7+2i)(3∟-115°)
 
 ![3a](https://user-images.githubusercontent.com/93681159/155048442-c08115d6-c829-4cb3-8d4c-9f7dabe9cd32.PNG)
 
-b)
+b)6.8∟125.3°+(4.5∟-11.5°)/(7.6-1.2i)
 
 ![3b](https://user-images.githubusercontent.com/93681159/155048444-08edd3b4-03a6-4e40-a85d-6d71d3e8a631.PNG)
 
-c)
+c)(34+28.5i)/(4∟-20.8°)-51.2∟-215°
 
 ![3c](https://user-images.githubusercontent.com/93681159/155048449-ac0a762c-c5e0-4435-9dd4-c8a76b35b180.PNG)
 
