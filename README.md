@@ -12,6 +12,7 @@
    
 ## 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/93666408/155060625-cbb41dd1-eb39-4d69-a83e-1c9725109342.png)
 
 
 ## 3. PROCEDIMIENTO
