@@ -25,7 +25,12 @@
 ![circuitos 2](https://user-images.githubusercontent.com/93893919/155061168-3d04f447-6111-4e13-a241-255dda685af6.png)
 ### 3.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
-![image](https://user-images.githubusercontent.com/93666408/155064265-8b16f80a-c343-492f-85c6-8612a52516cb.png)
+![image](https://user-images.githubusercontent.com/93666408/155066682-55f95a05-559a-4f1f-9514-40b325e1ee93.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155066731-bf855681-3a88-4b72-93bc-84f295ecfd87.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155066775-95c7acd0-6ffd-475b-a7d1-148fcdfd53eb.png)
+
 
 ### 3.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
