@@ -17,7 +17,9 @@
 
 ## 3. PROCEDIMIENTO
 ### 3.1. Transforme a su forma polar:
+![circuitos 1](https://user-images.githubusercontent.com/93893919/155061126-c334ece0-0a9e-4f6a-ad28-d9207c3e55e7.png)
 ### 3.2. Transforme a su forma rectangular:
+![circuitos 2](https://user-images.githubusercontent.com/93893919/155061168-3d04f447-6111-4e13-a241-255dda685af6.png)
 ### 3.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 ### 3.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
