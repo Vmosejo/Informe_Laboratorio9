@@ -93,4 +93,3 @@ https://www.youtube.com/watch?v=h3Ygh3dqmAg
 
 ## 6 BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
-* 
