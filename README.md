@@ -15,10 +15,58 @@
 
 
 ## 3. PROCEDIMIENTO
-
+### 3.1. Transforme a su forma polar:
+### 3.2. Transforme a su forma rectangular:
+### 3.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+### 3.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
 ## 4.RESPUESTA A INTERROGANTES 
+Transforme a su forma polar:
+a) 2+3i
 
+![1a](https://user-images.githubusercontent.com/93681159/155048364-3bb1ee4d-0961-43c3-b55f-da8e824a9fe4.PNG)
+
+b) -8+6.2i
+
+![1b](https://user-images.githubusercontent.com/93681159/155048372-cc6a28b9-3b23-4611-adcf-d724e266ddfb.PNG)
+
+c) 4.3-2.8i
+
+![1c](https://user-images.githubusercontent.com/93681159/155048398-f5cdca18-bfe0-498e-a985-909f9d42d074.PNG)
+
+d) -6-3.2i
+
+![1d](https://user-images.githubusercontent.com/93681159/155048403-9fa44f7e-b4c5-4054-b9d1-d9833816a552.PNG)
+
+Transforme a su forma rectangular:
+a) 36∟-10°
+
+![2a](https://user-images.githubusercontent.com/93681159/155048409-06f9067b-aaff-4ae8-96a8-777746ec6728.PNG)
+
+b) 28.7∟135°
+
+![2b](https://user-images.githubusercontent.com/93681159/155048418-19962875-0cbe-4b7a-ae4a-53c257c51fdd.PNG)
+
+c) 11.2∟28°
+
+![2c](https://user-images.githubusercontent.com/93681159/155048425-4d170226-87b0-4322-82c3-f87ffc247cd2.PNG)
+
+d) 45∟-117.9°
+
+![2d](https://user-images.githubusercontent.com/93681159/155048431-fc78e928-6e67-443c-b8d2-6e9b71ad23f8.PNG)
+
+Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+a)
+
+![3a](https://user-images.githubusercontent.com/93681159/155048442-c08115d6-c829-4cb3-8d4c-9f7dabe9cd32.PNG)
+
+b)
+
+![3b](https://user-images.githubusercontent.com/93681159/155048444-08edd3b4-03a6-4e40-a85d-6d71d3e8a631.PNG)
+
+c)
+
+![3c](https://user-images.githubusercontent.com/93681159/155048449-ac0a762c-c5e0-4435-9dd4-c8a76b35b180.PNG)
 
 ## 5. VIDEO
 
