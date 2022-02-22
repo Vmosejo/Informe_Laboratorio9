@@ -24,6 +24,9 @@
 ### 3.2. Transforme a su forma rectangular:
 ![circuitos 2](https://user-images.githubusercontent.com/93893919/155061168-3d04f447-6111-4e13-a241-255dda685af6.png)
 ### 3.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![image](https://user-images.githubusercontent.com/93666408/155064265-8b16f80a-c343-492f-85c6-8612a52516cb.png)
+
 ### 3.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
 Transforme a su forma polar:
