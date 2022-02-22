@@ -14,6 +14,9 @@
 
 ![image](https://user-images.githubusercontent.com/93666408/155060625-cbb41dd1-eb39-4d69-a83e-1c9725109342.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155061992-aea4600d-e5ea-4151-9d4f-01c067ace03d.png)
+
+
 
 ## 3. PROCEDIMIENTO
 ### 3.1. Transforme a su forma polar:
@@ -78,9 +81,9 @@ c)(34+28.5i)/(4∟-20.8°)-51.2∟-215°
 
 
 ## 5 CONCLUSIONES
-* 
-* 
-* 
+* Finalmente se llega a la conclusión mediante el informe que los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca.
+* Con los números complejos se realiza las operaciones básicas pero a su vez nos permite trabajar en cantidades de magnitud como en ángulos.
+* Como dato importante  los fasores pueden ser utilizados para describir el movimiento de un oscilador.
 
 ## 6 BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
