@@ -20,7 +20,6 @@
 ### 3.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 ### 3.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
-## 4.RESPUESTA A INTERROGANTES 
 Transforme a su forma polar:
 
 a) 2+3i
@@ -71,15 +70,15 @@ c)(34+28.5i)/(4∟-20.8°)-51.2∟-215°
 
 ![3c](https://user-images.githubusercontent.com/93681159/155048449-ac0a762c-c5e0-4435-9dd4-c8a76b35b180.PNG)
 
-## 5. VIDEO
+## 4 VIDEO
 
 
 
-## 6. CONCLUSIONES
+## 5 CONCLUSIONES
 * 
 * 
 * 
 
-## 7. BIBLIOGRAFÍA 
+## 6 BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
 * 
