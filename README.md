@@ -77,9 +77,7 @@ c)(34+28.5i)/(4∟-20.8°)-51.2∟-215°
 ![3c](https://user-images.githubusercontent.com/93681159/155048449-ac0a762c-c5e0-4435-9dd4-c8a76b35b180.PNG)
 
 ## 4 VIDEO
-
-
-
+https://www.youtube.com/watch?v=h3Ygh3dqmAg
 ## 5 CONCLUSIONES
 * Finalmente se llega a la conclusión mediante el informe que los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de CA.
 * Con los números complejos se realiza las operaciones básicas pero a su vez nos permite trabajar en cantidades de magnitud como en ángulos.
